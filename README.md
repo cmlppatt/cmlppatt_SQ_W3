@@ -23,14 +23,14 @@ Press **ENTER** to start or rematch.
 | `assets/sounds/punch_1.wav` – `punch_9.wav` | Punch SFX — OpenGameArt.org                       |
 | `assets/sounds/win.wav`                     | listener4me, Win Sound Effect — OpenGameArt.org   |
 | `assets/sounds/background.mp3`              | Matthew Pablo, Space Dimensions — OpenGameArt.org |
-| `assets/sounds/robot_hurt.mp3` [1]|         | Freesound Community - Pixabay                     |
-| `assets/sounds/portal_swoosh.mp3` [2]|      | Dragon Studio - Pixabay                           |
-| `assets/sounds/shield_on.mp3` [3]|          | Freesound Community - Pixabay                     |
-| `assets/sounds/shield_up.mp3` [4]|          | Leszek_Szary - Pixabay                            |
-| `assets/images/metal_wall.jpg` [5]|         | Wallart                                           |
-| `assets/images/portal_orange.png` [6]|      | maxiesnax - Deviant Art                           |
-| `assets/images/portal.png` [7]|             | Fandom                                            |
-| `assets/images/robot_char.png` [8]|         | Ninja Game                                        |
+| `assets/sounds/robot_hurt.mp3` [1]         | Freesound Community - Pixabay                     |
+| `assets/sounds/portal_swoosh.mp3` [2]      | Dragon Studio - Pixabay                           |
+| `assets/sounds/shield_on.mp3` [3]          | Freesound Community - Pixabay                     |
+| `assets/sounds/shield_up.mp3` [4]          | Leszek_Szary - Pixabay                            |
+| `assets/images/metal_wall.jpg` [5]         | Wallart                                           |
+| `assets/images/portal_orange.png` [6]      | maxiesnax - Deviant Art                           |
+| `assets/images/portal.png` [7]             | Fandom                                            |
+| `assets/images/robot_char.png` [8]        | Ninja Game                                        |
 
 ## References
 [2] Dragon Studio. n.d. Sci-fi Portal Jump. Pixabay. Retrieved May 27, 2026, from https://pixabay.com/sound-effects/film-special-effects-sci-fi-portal-jump-02-416162/
